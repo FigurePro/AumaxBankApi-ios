@@ -1,0 +1,10 @@
+Host: api.aumax.fr
+apikey: hGMXuCJXZXApQDfI3ZAysRUEUA8KrN1c
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Aumax/514 CFNetwork/1240.0.4 Darwin/20.5.0
+Connection: keep-alive
+Accept: application/json
+Accept-Language: fr-fr
+Content-Length: 229
+Authorization: Basic aEdNWHVDSlhaWEFwUURmSTNaQXlzUlVFVUE4S3JOMWM6elkzQjd6aGtoQzJ5TFM1RA==
+Accept-Encoding: gzip
