@@ -1,1 +1,1 @@
-username=kdkdd%40glail.com&password=c%27dnd&grant_type=password&deviceVendor=Apple&client_id=u9fpIZGaUiG5SXY0&apikey=hGMXuCJXZXApQDfI3ZAysRUEUA8KrN1c&deviceSerialNumber=a284f874-4add-4463-8a96-423cdf8fb1d4&deviceModel=iPhone8%2C1
+username=<USER>&password=<PASS>&grant_type=password&deviceVendor=Apple&client_id=u9fpIZGaUiG5SXY0&apikey=hGMXuCJXZXApQDfI3ZAysRUEUA8KrN1c&deviceSerialNumber=a284f874-4add-4463-8a96-423cdf8fb1d4&deviceModel=iPhone8%2C1
